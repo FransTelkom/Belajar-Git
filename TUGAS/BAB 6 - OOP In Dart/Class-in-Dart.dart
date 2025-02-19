@@ -1,3 +1,0 @@
-class Contohnamaclass {
-// Isi field
-}
