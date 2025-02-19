@@ -1,0 +1,3 @@
+class Contohnamaclass {
+// Isi field
+}
